@@ -1,0 +1,13 @@
+body::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 10000px;
+    opacity: 0.25;
+    pointer-events: none;
+
+    /*background: url("./huggies--desktop.jpg") no-repeat center top / 900px 4792px; left:0px; top:0px;*/
+    background: url("./huggies--mobile.jpg") no-repeat center top / 375px 6511px; top:0px;
+}
