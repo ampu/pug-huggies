@@ -10,7 +10,7 @@
   filter: grayscale(100%);
 }
 
-@media only screen and (max-width: 785px) {
+@media only screen and (max-width: 805px) {
   .container {
     width: 320px !important;
   }
